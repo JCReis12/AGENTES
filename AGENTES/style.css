@@ -1,0 +1,49 @@
+.agentes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.espaco{
+    width: 100px;
+    height: 100%;
+}
+
+.missao{
+    background-color: rgb(41, 41, 41);
+    color: white;
+    width: 100%;
+    height: 600px;
+}
+
+
+.t{
+    display: flex;
+    justify-content: center;
+}
+
+.funcoes{
+    background-color: blueviolet;
+    width: 1000px;
+}
+
+.mapa{
+    background-color: brown;
+    width: 521px;
+}
+
+.mA{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo{
+    width: 100%;
+    height: 520px;
+    display: flex;
+}
