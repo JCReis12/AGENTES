@@ -1,3 +1,0 @@
-function adicionarJ1(){
-
-}
