@@ -1,0 +1,87 @@
+.todo{
+    display: flex;
+}
+
+.grandeNav{
+    background-color: rgb(79, 255, 93);
+    width: 100%;
+    height: auto;
+}
+
+.grandeA{
+    width: 260px;
+}
+
+.grandeB{
+    width: 100%;
+}
+
+
+
+
+.logo img{
+    width: 60px;
+}
+
+.logo{
+    margin-right: 200px;
+}
+
+.espaco{
+    height: 15px;
+}
+
+.veiculos, .gadgets, .poderes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.espacoMaior{
+    height: 50px;
+}
+
+h5{
+    display: flex;
+    justify-content: center;
+}
+
+.offCanvas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudoOC{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sideBar{
+    background-color: rgb(231, 231, 231);
+    width: 260px;
+    height: 100%;
+}
+
+.tituloMissao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.missaoX{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.caixas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
